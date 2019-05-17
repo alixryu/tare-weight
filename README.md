@@ -1,6 +1,5 @@
 # Tare Weight
-
-## The story of Scala fundamentals learned from years of production experience.
+The story of Scala fundamentals learned from years of production experience.
 
 ## Project Name
 To accurately use a scale, it is essential to address [tare weight](https://en.wikipedia.org/wiki/Tare_weight).
